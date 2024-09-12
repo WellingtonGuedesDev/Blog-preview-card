@@ -1,0 +1,20 @@
+:root {
+  /* COLORS */
+  --clr-yellow: hsl(47, 88%, 63%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-gray-500: hsl(0, 0%, 42%);
+  --clr-gray-950: hsl(0, 0%, 7%);
+
+  /* TYPOGRAPHY */
+  --fs-paragraph: 16px;
+  --fs-tag: 12px;
+
+  /* FONTS */
+  --ff-figtree: "Figtree", sans-serif;
+  --fw-regular: 500;
+  --fw-bold: 800;
+
+  /* GAPS */
+  --gap-24: 24px;
+  --gap-12: 12px;
+}
