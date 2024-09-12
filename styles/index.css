@@ -95,7 +95,7 @@ body {
 }
 
 .card__author p {
-    font-size: 14px;
+    font-size: var(--fs-paragraph);
     color: var(--clr-gray-950);
     font-weight: var(--fw-bold);
     line-height: 150%;
